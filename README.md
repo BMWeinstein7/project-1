@@ -1,6 +1,10 @@
 <!-- # project-1
 Game for Project 1 WDI- Potoo
  -->
+ 
+
+
+
  # GA: Project 1
 **Name**: War: Potoo Edition
 
@@ -17,7 +21,7 @@ The rules of war are quite simple. The game is played using a standard deck of 5
 - Each user will have the ability to click a button to flip their top card over and display the card
 - The game will then test for who has the higher card value.
 - The player with the higher card will receive both of those cards
-- Player 1 and Player 2 continue to click the flip card button until one player is left with all of the cards, thus making him/her the winner. 
+- Player 1 and Player 2 continue to click the flip card button until one player is left with all of the cards, thus making him/her the winner. // KeyStroke for each player will flip their top card. 
 - The game will end when one of the two players is left without any cards. The player with the cards is the winner.
 
 **Goals**: 
@@ -36,7 +40,7 @@ The rules of war are quite simple. The game is played using a standard deck of 5
 - Time available to finish a complete game from scratch. 
 - Incorporating JQuery correctly
 - creating the logic for the event of the cards matching and creating a “war” scenario
-- Incorporate a way for each player to have a way to interact with the game rather than one button that flips the cards
+- Incorporate a way for each player to have a way to interact with the game rather than one button that flips the cards // KeyStroke for each player will flip their top card. 
 - Appealing Design for the landing page and the game page
 
 **Technologies:**

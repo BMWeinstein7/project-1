@@ -1,0 +1,35 @@
+/*Landing Page Styling*/
+
+body {
+	background-image: url("../img/background-ace.jpg") #d6d6d6;
+	font-family: "Times New Roman", serif;
+	color: black;
+	font-size: 20px;
+	line-height: 20px
+	margin: 0 200px 0 200px;
+	text-align: center;
+}
+
+header {
+	font-size: 50px;
+	padding: 5px;
+	text-align: center;
+	font-family: Times New Roman, serif;
+	border: 2px solid black;
+	color: white
+	text-color: black;
+}
+
+#instructions{
+	text-color: grey;
+
+}
+
+
+.button {
+
+
+}
+
+
+
