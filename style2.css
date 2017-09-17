@@ -1,32 +1,64 @@
 /*Landing Page Styling*/
 
 body {
-	background-image: url("../img/background-ace.jpg") #d6d6d6;
+/*	background-color: gray;*/
 	font-family: "Times New Roman", serif;
-	color: black;
+	color: white;
 	font-size: 20px;
 	line-height: 20px
-	margin: 0 200px 0 200px;
+	margin: auto;
 	text-align: center;
 }
 
-header {
-	font-size: 50px;
-	padding: 5px;
+/*}
+*//***//*
+/*header {
+	font-size: 20px;
+/*	padding: 2px;
 	text-align: center;
 	font-family: Times New Roman, serif;
-	border: 2px solid black;
-	color: white
-	text-color: black;
+	border: 2px solid red;
+	color: black;
+	background-color: gray;
+	margin: 0;
+	position: relative;
+	width: 100%;*/
+/***//*/*/
+/*}*/
+
+
+
+#container {
+	background: url("img/background-ace.jpg") no-repeat;
+	background-size: cover;
+	position: absolute;
+	/*width: 100%; caused overflow of text */
+	height: 100%;
 }
+
+h1{
+	font-size: 40px;
+	text-align: center;
+	color: white;
+	margin-right: 5px;
+}
+
+/*h2{
+	font-size: 40px;
+	text-align: center;
+	color: white;
+}*/
+
+
 
 #instructions{
-	text-color: grey;
+margin-top: 50px;
+text-align: center;
 
 }
 
-
-.button {
+#button {
+/*margin-top: 200px;*/
 
 
 }
